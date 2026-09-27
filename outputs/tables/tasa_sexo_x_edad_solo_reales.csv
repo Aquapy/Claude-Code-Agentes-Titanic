@@ -1,0 +1,11 @@
+Sex,Edad_grupo,n,supervivientes,tasa_pct
+female,0-12,32,19,59.4
+female,13-18,36,27,75.0
+female,19-35,120,94,78.3
+female,36-50,56,41,73.2
+female,51+,17,16,94.1
+male,0-12,37,21,56.8
+male,13-18,34,3,8.8
+male,19-35,238,43,18.1
+male,36-50,97,20,20.6
+male,51+,47,6,12.8

@@ -1,0 +1,13 @@
+Pclass,Sex,tiene_Cabin,n,supervivientes,tasa_pct
+1,female,0,13,13,100.0
+1,female,1,81,78,96.3
+1,male,0,27,6,22.2
+1,male,1,95,39,41.1
+2,female,0,66,61,92.4
+2,female,1,10,9,90.0
+2,male,0,102,13,12.7
+2,male,1,6,4,66.7
+3,female,0,138,68,49.3
+3,female,1,6,4,66.7
+3,male,0,341,45,13.2
+3,male,1,6,2,33.3
