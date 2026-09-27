@@ -2,7 +2,7 @@
 
 Material del vídeo de **DataPython** donde un equipo de 4 agentes de IA en Claude Code analiza el dataset del Titanic: un **orquestador** dirige y revisa el trabajo de tres especialistas (**data-cleaner**, **data-analyst** y **visualizer**).
 
-▶️ Vídeo: [ENLACE VIDEO]
+▶️ Vídeo: https://youtu.be/aloDFSzy6YM
 🔔 Canal: https://www.youtube.com/@Aquapying
 
 ## ¿Quién sobrevivió al Titanic?
